@@ -10,6 +10,12 @@
         a {
             text-decoration: none!important;
         }
+
+        .search {
+            height: 45px;
+            box-shadow: none!important;
+            outline: none!important;
+        }
     </style>
   </head>
   <body>

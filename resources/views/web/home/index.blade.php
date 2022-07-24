@@ -1,5 +1,5 @@
 @extends('web.layouts.app')
 
 @section('content')
-    sds
+    Home
 @endsection

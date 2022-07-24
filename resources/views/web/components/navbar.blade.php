@@ -8,9 +8,9 @@
                 </div>
                 <div class="w-65" style="width: 65%">
                     <form class="d-flex" role="search">
-                        <input class="form-control me-2" type="search" placeholder="Cari sepatu...  " aria-label="Search">
-                        <button class="btn btn-outline-dark" type="submit">
-                            <i class="fa fa-fw fa-search text-dark mr-2"></i>
+                        <input class="search form-control me-2" type="search" placeholder="Cari sepatu...  " aria-label="Search">
+                        <button class="btn btn-dark" type="submit">
+                            <i class="fa fa-fw fa-search mr-2"></i>
                         </button>
                     </form>
                 </div>
